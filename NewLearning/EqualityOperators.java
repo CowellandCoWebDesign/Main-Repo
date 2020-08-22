@@ -1,5 +1,7 @@
 //	william cowell
 // learning again
+//dropped by to say hey. its aug 22, 2020 today. started CCWD yesterday, pretty stocked! 
+//later!
 
 public class EqualityOperators
 {
